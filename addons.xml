@@ -3,11 +3,11 @@
 <addon id="skin.pineapple" version="0.0.7" name="PineApple.Tv" provider-name="emre.ay">
   <requires>
 		<import addon="xbmc.gui" version="5.10.0"/>
-     	<import addon="script.favourites" version="3.2.5"/>
+     	<import addon="script.favourites" version="6.0.3"/>
      	<import addon="service.library.data.provider" version="0.0.4"/>
      	<import addon="script.colorbox" version="1.0.10"/>
      	<import addon="script.module.autocompletion" version="1.1.2"/>	
-		<import addon="script.skinshortcuts" version="0.6.5"/>
+		<import addon="script.skinshortcuts" version="1.0.10"/>
 		<import addon="resource.uisounds.tvos-master" version="1.0.0"/>
   </requires>
   <extension point="xbmc.gui.skin" defaultthemename="Texture.xbt" effectslowdown="1" debugging="false">
